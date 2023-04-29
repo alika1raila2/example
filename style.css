@@ -1,0 +1,46 @@
+h1 {
+    color: chartreuse;
+    font-size: 50px;
+    font-weight: 200;
+    letter-spacing: 20px;
+
+}
+
+h2 {
+    color: black;
+    font-size: 70px;
+    font-weight: 400;
+    letter-spacing: 30px;
+
+}
+h3{
+    color: blueviolet;
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 40px;
+}
+h4{
+    color: crimson;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 50px;
+}
+h5{
+    color: blue;
+    font-size: 90px;
+    font-weight: 900;
+    letter-spacing: 80px;
+
+}
+h6{
+    color: darkred;
+    font-size: 80px;
+    font-weight: 800;
+    letter-spacing: 60px;
+}
+img{
+    width:400px;
+    height:500px ;
+    border-radius: 50%;
+
+}
